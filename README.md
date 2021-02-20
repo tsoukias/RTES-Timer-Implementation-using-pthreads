@@ -4,10 +4,8 @@ This repository contains all the assignments for the Academic Courses "Real Time
 
 Run the code with: 
 
-~~~bash
-```
+```bash
 gcc prod-cons-revised.c -o exec -lpthread -lm
 ./exec
 ```
-~~~
 
